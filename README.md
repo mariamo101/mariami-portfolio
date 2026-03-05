@@ -1,3 +1,4 @@
+
 # Mariami Portfolio (Next.js)
 
 Personal portfolio website built with **Next.js (App Router)**, **TypeScript**, and **Tailwind CSS**.  
@@ -63,3 +64,7 @@ npm run dev # Start dev server
 npm run build # Production build
 npm run start # Start production server
 npm run lint # Run ESLint
+
+
+## 🌐 Live Demo
+**Vercel:** https://mariami-portfolio.vercel.app/
