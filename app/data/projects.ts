@@ -10,6 +10,15 @@ export type Project = {
 };
 export const PROJECTS: Project[] = [
   {
+    slug: "portfolio",
+    title: "Portfolio",
+    description: "Data fetching, loading states, and  layout for dashboards.",
+    short:
+      "Personal portfolio website built with Next.js (App Router), TypeScript, and Tailwind CSS.",
+    year: "2026",
+    tags: ["Next.js", "React", "TypeScipt", "Tailwind"],
+  },
+  {
     slug: "Dealers Bet",
     title: "Count Dealer Bet",
     description: "Data fetching, loading states, and responsive layout .",
@@ -17,8 +26,7 @@ export const PROJECTS: Project[] = [
       "A React training application designed to help casino dealers improve their roulette bet counting speed and accuracy.",
     year: "2026",
     tags: ["Randomized bet images", "API", "Tailwind"],
-    demoUrl:
-      "https://calculate-dealer-bets-git-main-mariamo101s-projects.vercel.app/",
+    demoUrl: "https://calculate-dealer-bets.vercel.app/",
     githubUrl: "https://github.com/mariamo101/Calculate-Dealer-Bets",
   },
   {
@@ -71,12 +79,5 @@ export const PROJECTS: Project[] = [
     tags: ["Next.js ", "Styled Components ", "Responsive"],
     demoUrl: "https://advice-generator-app-six-jet.vercel.app/",
     githubUrl: "https://github.com/mariamo101/advice-generator-app",
-  },
-  {
-    slug: "Portfolio",
-    title: "API",
-    description: "Data fetching, loading states, and  layout for dashboards.",
-    year: "2025",
-    tags: ["Next.js", "TypeScipt", "Tailwind"],
   },
 ];
