@@ -122,7 +122,7 @@ export default function ProjectsPage() {
                   href={`/projects/${p.slug}`}
                   className="mt-6 inline-block text-sm font-medium text-zinc-300 transition group-hover:text-zinc-100"
                 >
-                  Open
+                  Open Details →
                 </Link>
               </div>
             </div>
