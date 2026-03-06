@@ -83,8 +83,8 @@ export const PROJECTS: Project[] = [
     year: "2026",
     tags: ["React", "TypeScript", "TailwindCSS", "Fetch API"],
     image: "/projects/dealers-bet.png",
-    demoUrl: "https://your-demo-link.netlify.app",
-    githubUrl: "https://github.com/your-repo",
+    demoUrl: "https://calculate-dealer-bets.vercel.app/",
+    githubUrl: "https://github.com/mariamo101/Calculate-Dealer-Bets",
     learned: [
       "Built responsive layouts using Flexbox and CSS Grid",
       "Handled user input validation and edge cases",
